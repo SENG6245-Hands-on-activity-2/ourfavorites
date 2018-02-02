@@ -2,3 +2,4 @@ egg
 pizza
 pasta
 Burger
+Salmon
