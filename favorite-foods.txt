@@ -1,2 +1,6 @@
 egg
+<<<<<<< HEAD
+pizza
+=======
 pasta
+>>>>>>> 245e6fe3cb82b07b957d7ffc63a42a5f5d0bb401
